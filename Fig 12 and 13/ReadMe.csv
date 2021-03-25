@@ -1,0 +1,21 @@
+﻿Column Header,Description
+Sample,Unique sample ID
+date,MMDD
+location,Distance from inlet in [ft]
+d5_micron,d5 of the sampled bed material in [microns]
+d16_micron,d16 of the sampled bed material in [microns]
+d50_micron,d50 of the sampled bed material in [microns]
+d84_micron,d84 of the sampled bed material in [microns]
+d95_micron,d95 of the sampled bed material in [microns]
+SS_d50_micron,d50 of the SS fraction of bed material in [microns]
+SS_mean_micron,Mean sortable silt of the bed material in [microns] by volume
+SS_mean_num_micron,Mean sortable silt of the bed material in [microns] by particle number
+depth_mm,Flow depth at that location in [mm]
+v_cm_s,Average flow velocity in [cm/s]
+conc,Concentration of suspended sediment at the inlet in [mg/l]
+duration,Experiment run time in [minutes]
+material,"s = silt, sc = silt and clay 1:1, scc = silt and clay 1:2"
+flowrate,Volumetric flow rate of water in [cm^3/s]
+ustar_smooth,Shear velocity in [cm/s]
+shearstress_pa,Shear stress in [Pa]
+input_perc_ss,Percent of the input material that is pure silt
